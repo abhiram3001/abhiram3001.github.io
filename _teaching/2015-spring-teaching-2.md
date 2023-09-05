@@ -3,9 +3,9 @@ title: "EE2025: Engineering Electromagnetics"
 collection: teaching assistant
 type: "Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "EE Department, IITM"
+date: 2023-01-01
+location: "Chennai, India"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
