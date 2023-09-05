@@ -4,7 +4,7 @@ collection: teaching assistant
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-1
 venue: "IIT Madras"
-date: 2014-01-01
+date: 2022
 location: "Chennai"
 ---
 
