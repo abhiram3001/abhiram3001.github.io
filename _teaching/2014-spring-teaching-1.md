@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
+title: "GN1101/1102"
+collection: teaching assistant
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+permalink: /teaching/2022-fall-teaching-1
+venue: "IIT Madras"
 date: 2014-01-01
-location: "City, Country"
+location: "Chennai"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Teaching assistant for a group of 15 freshies in their core Life Skills course. Involved in conducting sessions for a batch of 150 enthusiastic EE students, and grading their assignments. 
