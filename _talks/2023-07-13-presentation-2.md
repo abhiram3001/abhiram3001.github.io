@@ -2,7 +2,7 @@
 title: "IUSSTF Viterbi Showcase"
 collection: presentation
 type: "Presentation"
-permalink: /talks/2023-07-13-presentation-1
+permalink: /talks/2023-07-13-presentation-2
 venue: "Michelson Hall, USC"
 date: 2023-07-13
 location: "Los Angeles, USA"
