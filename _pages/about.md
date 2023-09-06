@@ -12,8 +12,27 @@ I am G Abhiram, a fourth-year undergraduate student at the Department of Electri
 
 I am currently working on my Bachelor's thesis in post-OCT Signal Processing. I have previously worked on new-age modulation techniques like OTFS, ODSS, and mitigating fractional doppler interference in OTFS under the guidance of Prof. [David Koilpillai](https://www.ee.iitm.ac.in/~koilpillai/). I spent the summer of 2023 at USC working with Prof. [Viktor Prasanna](http://ceng.usc.edu/~prasanna) and [Pengmiao Zhang](https://sites.google.com/usc.edu/pengmiao/home) on building a GNN-based data prefetcher. 
 
-A data-driven personal website
+Research Interests 
 ======
+
+
+My journey at IIT Madras
+=====
+
+
+Teaching, Projects, Seminars, & Outreach
+==== 
+
+
+Misc
+====
+
+
+Contact
+=====
+
+
+
 
 
 For more info
