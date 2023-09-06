@@ -2,16 +2,18 @@
 title: "EE2025: Engineering Electromagnetics"
 collection: teaching assistant
 type: "Course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2023-fall-teaching-1
 venue: "EE Department, IITM"
-date: 2023-01-01
+date: 2023-08-01
 location: "Chennai, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I have the fortunate opportunity to be the only B.Tech TA for this course, involved in setting tutorials, mini quizzes, leading the quiz/endsem grading. 
 
 Course Outline
 ======
+Instructor: Sudharshanan Srinivasan
+
 Transmission Lines, Maxwell's equations and plane waves, Maxwell's equations and interfaces, Waveguides and Resonators, Antennas and Arrays.
 
 Evaluation & Books
