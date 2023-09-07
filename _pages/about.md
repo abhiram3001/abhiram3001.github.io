@@ -34,20 +34,16 @@ My journey at IIT Madras
 -----
 After an intense but fruitful period of JEE preparation, I joined IIT Madras in Nov. 2020 to pursue my B.Tech in Electrical Engineering.
 
-Misc
-----
-When I am not working, I try to follow my passion in food, music (rock), and travel. I am also a movie buff, and here is my own must-watch [list](https://youthful-salmon-185.notion.site/Must-Watch-movies-2023-8867a7164aaa4d9f947d4209f57f453b?pvs=4). Favourite bands include: Pink Floyd, Nirvana, Tool, Metallica, AC/DC, GnR and Linkin Park, which is where my love for rock music started.  I am pursuing all of the above leisure activities on a very amateur level, but I try as hard as possible to take some time off and rejuvenate with these.
-
-I used to love reading and I hope to get back at it someday. I also enjoy reflecting upon life given my extremely philophical outlook.
-
-
-
 Contact
 -----
 - Email:  **gabhiram** *[at]* **smail** *[dot]* **iitm** *[dot]* **ac** *[dot]* **in** (school)
 - You can very often find me hanging around at [ESB](https://www.ee.iitm.ac.in), or [Sudha & Shankar Innovation Hub](https://www.t5eiitm.org/building-of-the-future/), so feel free to have a quick chat in case you drop by!
 
+Misc
+----
+When I am not working, I try to follow my passion in food, music (rock), and travel. I am also a movie buff, and here is my own must-watch [list](https://youthful-salmon-185.notion.site/Must-Watch-movies-2023-8867a7164aaa4d9f947d4209f57f453b?pvs=4). Favourite bands include: Pink Floyd, Nirvana, Tool, Metallica, AC/DC, GnR and Linkin Park, which is where my love for rock music started.  I am pursuing all of the above leisure activities on a very amateur level, but I try as hard as possible to take some time off and rejuvenate with these.
 
+I used to love reading and I hope to get back at it someday. I also enjoy reflecting upon life given my extremely philophical outlook.
 
 
 
