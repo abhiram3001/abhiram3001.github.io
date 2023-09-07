@@ -28,8 +28,8 @@ Evaluation & Books
 
 Tutorials & Quizzes
 ======
-| Quiz    | Average |  solutions |
-| -------- | ------- |----------|
-| Mini Quiz 1  | 4.15/10    | |
-| Quiz 1 | 7.2/20   | |
-| Mini Quiz 2    |    | |
+| Quiz | Average |  solutions |
+| Quiz 1 | 7.2/20 |----------|
+| Mini Quiz 1 | 4.15/10 |----------|
+
+
