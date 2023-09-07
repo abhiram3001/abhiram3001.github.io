@@ -8,13 +8,13 @@ date: 2023-08-01
 location: "Chennai, India"
 ---
 
-I have the fortunate opportunity to be the only B.Tech TA for this course, involved in setting tutorials, mini quizzes, leading the quiz/endsem grading. 
+I have the fortunate opportunity to be the only B.Tech TA for this course, involved in setting tutorials, mini-quizzes, and the quiz/endsem marking scheme cum grading. 
 
 Course Outline
 ======
-Instructor: Sudharshanan Srinivasan
+**Instructor**: Shanti Bhattacharya, Sudharshanan Srinivasan and Praveen Bhallamudi
 
-Transmission Lines, Maxwell's equations and plane waves, Maxwell's equations and interfaces, Waveguides and Resonators, Antennas and Arrays.
+**Contents**: Transmission Lines, Maxwell's equations and plane waves, Maxwell's equations and interfaces, Waveguides and Resonators, Antennas and Arrays.
 
 Evaluation & Books
 ======
