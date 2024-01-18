@@ -8,8 +8,8 @@ access sequence to a graph representation, capturing both the spatial and tempor
 Neural Network (GG-NN), and Graph Attention Network (GAT).'
 date: 2023-08-30
 venue: 'IEEE HPEC'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://ieeexplore.ieee.org/document/10363605'
+citation: 'A. R. Gorle, P. Zhang, R. Kannan and V. K. Prasanna, "G-MAP: A Graph Neural Network-Based Framework for Memory Access Prediction," 2023 IEEE High Performance Extreme Computing Conference (HPEC), Boston, MA, USA, 2023, pp. 1-7, doi: 10.1109/HPEC58863.2023.10363605.'
 ---
 Memory access prediction is a crucial problem in data prefetchers, as it helps us improve memory performance and
 reduce latency in computing systems. Existing works model the problem as a sequence prediction problem. This can
@@ -33,6 +33,5 @@ Future work:
 - Heterogenous GNN for the same task, and adding time step to the nodes for a more dynamic representation.
 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://drive.google.com/file/d/12_rZqL_i12iA9mTWxW2KZcb26hzu-ImU/view)
 
-Recommended citation: to be added
