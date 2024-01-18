@@ -8,22 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am G Abhiram, a fourth-year undergraduate student at the Department of Electrical Engineering, IIT Madras. My primary research interests are in Signal Processing, Information Theory and Machine Learning. 
+I am G Abhiram, a fourth-year undergraduate student at the Department of Electrical Engineering, IIT Madras. My primary research interests are in Information Theory, Wireless Communications and Machine Learning. 
 
-I am currently working on my Bachelor's thesis in post-OCT Signal Processing. I previously had the golden opportunity to work on new-age modulation techniques like OTFS, ODSS, and mitigating fractional doppler interference in OTFS under the guidance of Prof. [David Koilpillai](https://www.ee.iitm.ac.in/~koilpillai/). I spent the summer of 2023 at USC working with Prof. [Viktor Prasanna](http://ceng.usc.edu/~prasanna) and [Pengmiao Zhang](https://sites.google.com/usc.edu/pengmiao/home) on building a GNN-based data prefetcher for memory access prediction.  
+I am currently working on my Bachelor's thesis at the intersection of Generative AI and Information Theory under the co-guidance of [Prof. Nambi Seshadri](https://jacobsschool.ucsd.edu/faculty/profile?id=437) and  [Prof. David Koilpillai](https://www.ee.iitm.ac.in/~koilpillai/). I am also exploring some interesting information-theoretic results in Crowdsourcing in collaboration with [Prof. Andrew Thangaraj](https://www.ee.iitm.ac.in/~andrew/). I spent the summer of 2023 at USC working with [Prof. Viktor Prasanna](http://ceng.usc.edu/~prasanna) and [Pengmiao Zhang](https://sites.google.com/usc.edu/pengmiao/home) on building a GNN-based data prefetcher for memory access prediction. Previously, I had the opportunity to work on two major aspects of new-age modulation techniques like OTFS, ODSS: a) low-complexity Channel Estimation and b) Inter-Doppler Interference (IDI) under the guidance of [Prof. David Koilpillai](https://www.ee.iitm.ac.in/~koilpillai/).
 
 Research Interests 
 -----
-My general research interests are centered around Signal Processing and Communications, Machine Learning. Most of my undergraduate coursework/research has also been focused on these domains. 
+My general research interests are centered around Communication Theory, Statistical Inference and Information Theory. Most of my undergraduate coursework/research has also been focused on these domains. 
 
-While I have spent a significant amount of my UG trying to specialize in these fields, I am always on the lookout for other exciting fields of research. Some other (recent) topics of interest that I have enjoyed exploring include:
+While I have spent a significant amount of my UG trying to specialize in these fields, I am always on the lookout for other exciting fields of research. Some other topics of interest that I have briefly worked on include:
 
 - ML-based Memory Access Prediction (Check out [Data Science Lab, USC](https://sites.usc.edu/dslab/) for more)
-- Wireless Sensing (a hot research topic)
-- Graph Neural Networks (and their vast applications)
 - Non-linear Control Theory (more specifically, Kuramoto Oscillators)
-- Differential Pursuit-Evasion Games
-- Reinforcement Learning (most of my initial project work centered around this)
+- Differential Pursuit-Evasion Games (technical lead for a related [Mathematics Club](https://cfi.iitm.ac.in/clubs/mathematics-club) project)
+- Reinforcement Learning (most of my initial work in [AI Club](https://cfi.iitm.ac.in/clubs/ai-club) centered around this)
 
 
 Talks, Seminars, & Outreach
