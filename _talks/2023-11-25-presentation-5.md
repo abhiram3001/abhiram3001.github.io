@@ -1,8 +1,8 @@
 ---
 title: "Convex Poster Day"
 collection: presentation
-type: "Presentation"
-permalink: /talks/2023-11-25-poster-1.
+type: "Poster"
+permalink: /talks/2023-11-25-presentation-5
 venue: "ESB Foyer Area, IIT Madras"
 date: 2023-11-25
 location: "Chennai, India"
