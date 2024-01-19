@@ -29,9 +29,13 @@ Tutorials & Quizzes
 ======
 **Tutorials**:
 - Tutorial 1, Sept. 1: [link](https://coursesnew.iitm.ac.in/pluginfile.php/41697/mod_resource/content/0/probset-1.pdf)
-- Tutorial 2
-- Tutorial 3
-- Tutorial 4
+- Tutorial 2, Sept. 14
+- Tutorial 3 and 4, Nov. 3
 
-| Quiz    | Average |  solutions |
-| Quiz 1 | ------- |----------|
+**Assignments**:
+- Assignment 1: Oct. 11, due Oct. 19
+- Assignment 2: Nov. 17, due Nov. 26
+
+**Midsem**: Friday, Sept. 15
+
+**Endsem**: Friday, Nov. 17
