@@ -4,7 +4,7 @@ collection: teaching assistant
 type: "Course"
 permalink: /teaching/2024-spring-teaching-5
 venue: "EE Department, IITM"
-date: 2023-01-17
+date: 2024-01-17
 location: "Chennai, India"
 ---
 
