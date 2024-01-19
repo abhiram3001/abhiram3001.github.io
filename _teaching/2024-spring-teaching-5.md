@@ -11,7 +11,7 @@ location: "Chennai, India"
 
 Course Outline
 ======
-**Instructor**: Shanti Bhattacharya, Sudharshanan Srinivasan and Praveen Bhallamudi
+**Instructor**: Prof. Andrew Thangaraj
 
 **Contents**: 
 - Information measures
@@ -50,3 +50,4 @@ Evaluation & Books
   - 2 Quizzes (25% each) and a Endsem (50%), as per the institute schedule.
   - Optional Project
 - Textbooks: Elements of Information Theory by Thomas and Cover.
+  
