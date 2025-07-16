@@ -22,7 +22,7 @@ Contact
 -----
 - Email:  **abhiramg** *[at]* **stanford** *[dot]* **edu** (school), **abhiram3001** *[at]* **gmail** *[dot]* **com** (personal)
 - You can often find me hanging around at Packard (EE building) or CoDa. 
-- [IITM] <p><s>You can often find me hanging around at <a href="https://www.ee.iitm.ac.in">ESB</a>, or <a href="https://www.t5eiitm.org/building-of-the-future/">Sudha & Shankar Innovation Hub</a>, so feel free to have a quick chat in case you drop by!</s></p>
+- [IITM] <s>You can often find me hanging around at <a href="https://www.ee.iitm.ac.in">ESB</a>, or <a href="https://www.t5eiitm.org/building-of-the-future/">Sudha & Shankar Innovation Hub</a>, so feel free to have a quick chat in case you drop by!</s>
 
 Misc
 ----
