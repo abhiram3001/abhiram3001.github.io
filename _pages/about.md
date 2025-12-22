@@ -30,6 +30,9 @@ When I am not working, I try to follow my passion for [food](https://app.beliapp
 
 I used to love reading, and I hope to get back at it someday. I also enjoy reflecting upon life given my extremely philophical outlook.
 
+Visitors
+----
+<a href="https://info.flagcounter.com/qFWN"><img src="https://s05.flagcounter.com/count2/qFWN/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 For more info
 ------
